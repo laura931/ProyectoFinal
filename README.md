@@ -39,7 +39,7 @@ realizar las siguientes acciones desde su menú: </p>
 <h3>6. Recuperar lista de usuarios del archivo .dat</h3>
     <p>Permite visualizar la lista de usuarios guardada en el paso cuatro(4).</p>
 
-<h3>7. Buscar un usuario por id\</h3>
+<h3>7. Buscar un usuario por id</h3>
     <p>Busca en la lista de usuarios si existe uno que tenga el id que nosotros ingresamos. Si lo encuentra, muestra sus datos.
     Si no lo encuentra, da un mensaje de aviso.</p>
 
